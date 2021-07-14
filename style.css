@@ -6,13 +6,13 @@ body{
     font-family: 'Lato', sans-serif;
 }
 section{
-    height: 480px;
+    height: 450px;
     background: url(images/top-banner.png);
     background-repeat: no-repeat;
     display: block;
 }
 .section{
-    padding: 5%;
+    padding: 3%;
 }
 h1{
     font-size: 50px;
@@ -44,9 +44,7 @@ h3{
 .halfWidth img{
     width: 100%;
 }
-.mb{
-    margin-bottom: 3rem;
-}
+
 .btn{
     color: white;
     background-color: orange;
